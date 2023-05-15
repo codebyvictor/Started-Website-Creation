@@ -4,3 +4,4 @@ Started is a consulting startup created by McGill students to provide business-b
 
 I worked as a freelance to build a complete business platform using wordpress as the support to this website. Having little prior experience in website design, this project taught me how to construct a professional website with advanced features while strengthening my skills on website builders such as Wordpress. 
 
+Visit the website: https://www.startedcanada.ca/
